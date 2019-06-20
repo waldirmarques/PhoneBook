@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PhoneBook</string>
+    <string name="action_settings">Settings</string>
+    <string name="email">email</string>
+</resources>
